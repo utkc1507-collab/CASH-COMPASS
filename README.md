@@ -1,2 +1,2 @@
 # CASH-COMPASS
-CashCompass is a UI-focused expense tracking web app prototype that visualizes personal spending patterns through dashboards and insight cards. Designed to simulate financial awareness features using HTML and CSS.
+CashCompass is a full-stack expense tracking web project with a responsive UI, backend API integration, and features like CRUD operations, search/filter, and a dashboard for spending insights
