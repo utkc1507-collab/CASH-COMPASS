@@ -1,0 +1,1 @@
+User → Form → JS fetch → Flask API → Data stored → JSON response → UI update
