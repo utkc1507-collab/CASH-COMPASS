@@ -23,3 +23,11 @@ def add_expense():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#DELETE API
+
+@app.route('/api/expenses/<int:id>', methods=['DELETE'])
+def delete_expense(id):
+    global expenses
+    expenses = [e for e in expenses if e["id"] != id]
+    return {"message": "Deleted"}
