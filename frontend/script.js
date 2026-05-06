@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:5001/api/expenses";
+const API_URL = "https://cash-compass-ypkc.onrender.com/api/expenses";
 
 async function fetchExpenses() {
     try {
