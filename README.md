@@ -86,8 +86,4 @@ The page updates automatically without refreshing.
 User can see all added expenses on the screen.
 
 
-
-## Contributors
-
-- Utkarsh  
-- Akshat  
+ 
